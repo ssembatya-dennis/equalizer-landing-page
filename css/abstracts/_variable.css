@@ -2,5 +2,9 @@
   --color-text-light: #fcfaf9;
   --color-text-dark: #191826;
   --color-white: #fff;
-  --premium-bg-color: #fa7453;
+
+  --color-secondary-light: #66e2dc;
+
+  --color-tertiary-dark: #fa7453;
+  --colo-tertiary-light: #ffb964;
 }

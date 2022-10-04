@@ -22,8 +22,16 @@
   padding: 1.2rem 3.1rem;
 }
 
+.btn--ios:hover {
+  background: var(--color-secondary-light);
+}
+
 .btn--android {
   padding: 12px 14px;
   color: var(--color-text-dark);
   background: var(--color-text-light);
+}
+
+.btn--android:hover {
+  background: var(--colo-tertiary-light);
 }

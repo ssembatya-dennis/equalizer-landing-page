@@ -21,3 +21,10 @@
   align-items: center;
   justify-content: space-evenly;
 }
+
+.footer__icon:hover {
+  background-color: var(--color-tertiary-dark);
+  color: var(--color-white);
+  filter: invert(10%) sepia(150%) saturate(481%) hue-rotate(351deg)
+    brightness(149%) contrast(73%);
+}
