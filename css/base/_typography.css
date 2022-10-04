@@ -23,3 +23,39 @@ body {
   font-size: 2rem;
   color: #191826;
 }
+
+.card__title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  color: #fcfaf9;
+}
+
+.card__info {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 34px;
+  color: #fcfaf9;
+}
+
+.card__price {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  letter-spacing: -0.2px;
+  color: #fcfaf9;
+}
+
+.card__price-num {
+  font-weight: 700;
+  font-size: 65px;
+  line-height: 52px;
+  color: #fcfaf9;
+}
+
+.btn {
+  font-weight: 700;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: -0.18px;
+}

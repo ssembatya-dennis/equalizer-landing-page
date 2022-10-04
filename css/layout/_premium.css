@@ -1,0 +1,27 @@
+.premium__section {
+  width: 100%;
+  height: 60rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #191826;
+  border-radius: 12px;
+  background-image: url(../../assets/bg-pattern-2.svg);
+  background-position: center;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.premium__image {
+  width: 312px;
+  height: 642px;
+  position: absolute;
+  top: -35%;
+  left: 194px;
+}
+
+.premium__img {
+  width: 100%;
+  height: 100%;
+}

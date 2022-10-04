@@ -1,0 +1,27 @@
+.card {
+  width: 446px;
+  height: 625px;
+  background: #fa7453;
+  border-radius: 12px;
+  padding: 58px;
+  color: #fff;
+  position: absolute;
+  top: 15%;
+  right: 130px;
+}
+
+.card__title {
+  margin-bottom: 2.2rem;
+}
+
+.card__info {
+  margin-bottom: 3.9rem;
+}
+
+.card__price {
+  margin-bottom: 4.6rem;
+}
+
+.btn_icon {
+  margin-right: 1rem;
+}
