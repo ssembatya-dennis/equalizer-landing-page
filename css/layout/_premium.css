@@ -6,6 +6,7 @@
   background: var(--color-text-dark);
   background-image: url(../../assets/bg-pattern-2.svg);
   background-position: center;
+  border-radius: 1.2rem;
   background-size: 50%;
   background-repeat: no-repeat;
   position: relative;
@@ -30,6 +31,7 @@
 @media screen and (max-width: 768px) {
   .premium__section {
     margin: 0 3.9rem;
+    border-radius: 0;
   }
 }
 
