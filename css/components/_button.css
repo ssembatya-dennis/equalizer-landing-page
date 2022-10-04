@@ -3,7 +3,7 @@
   border: none;
   outline: none;
   background-color: transparent;
-  border-radius: 12px;
+  border-radius: 1.2rem;
   cursor: pointer;
 }
 
@@ -13,17 +13,17 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 1.6rem;
+  gap: 2.6rem;
 }
 
 .btn--ios {
-  color: #fcfaf9;
-  background: #191826;
-  padding: 12px 31px;
+  color: var(--color-text-light);
+  background: var(--color-text-dark);
+  padding: 1.2rem 3.1rem;
 }
 
 .btn--android {
   padding: 12px 14px;
-  color: #191826;
-  background: #fcfaf9;
+  color: var(--color-text-dark);
+  background: var(--color-text-light);
 }

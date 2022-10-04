@@ -3,8 +3,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #191826;
-  border-radius: 12px;
+  background: var(--color-text-dark);
+  border-radius: 1.2rem;
   background-image: url(../../assets/bg-pattern-2.svg);
   background-position: center;
   background-size: 50%;
@@ -14,8 +14,9 @@
 }
 
 .premium__image {
-  width: 312px;
-  height: 642px;
+  max-width: 31.2rem;
+  min-height: 64.2rem;
+  height: auto;
   margin-left: 10rem;
   position: absolute;
   top: -35%;

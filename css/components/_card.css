@@ -1,10 +1,11 @@
 .card {
-  width: 446px;
-  height: 625px;
-  background: #fa7453;
-  border-radius: 12px;
-  padding: 58px;
-  color: #fff;
+  max-width: 44.6rem;
+  min-height: 62.5rem;
+  height: 100%;
+  background: var(--premium-bg-color);
+  border-radius: 1.2rem;
+  padding: 5.8rem;
+  color: var(--color-white);
   position: absolute;
   margin-right: 9.5rem;
   top: 15%;
