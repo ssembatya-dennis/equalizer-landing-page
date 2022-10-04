@@ -4,7 +4,6 @@
   justify-content: space-between;
   align-items: center;
   background: var(--color-text-dark);
-  border-radius: 1.2rem;
   background-image: url(../../assets/bg-pattern-2.svg);
   background-position: center;
   background-size: 50%;
@@ -31,5 +30,17 @@
 @media screen and (max-width: 768px) {
   .premium__section {
     margin: 0 3.9rem;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .premium__section {
+    margin: 0;
+  }
+
+  .premium__image {
+    max-width: 28rem;
+    min-height: 43rem;
+    margin-left: 6rem;
   }
 }
