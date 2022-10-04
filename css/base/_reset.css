@@ -13,3 +13,9 @@ html {
 body {
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 768px) {
+  html {
+    font-size: 60.5%;
+  }
+}

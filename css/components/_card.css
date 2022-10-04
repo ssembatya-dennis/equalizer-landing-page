@@ -27,3 +27,14 @@
 .btn_icon {
   margin-right: 1rem;
 }
+
+@media screen and (max-width: 768px) {
+  .card {
+    max-width: 39.9rem;
+    margin-right: 5.8rem;
+  }
+
+  .card__price {
+    margin-bottom: 1.6rem;
+  }
+}
