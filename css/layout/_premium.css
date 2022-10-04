@@ -35,6 +35,13 @@
   }
 }
 
+@media screen and (max-width: 425px) {
+  .premium__image {
+    top: -43%;
+    margin-left: 5rem;
+  }
+}
+
 @media screen and (max-width: 375px) {
   .premium__section {
     margin: 0;

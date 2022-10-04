@@ -20,7 +20,7 @@ body {
   }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 425px) {
   html {
     font-size: 55.5%;
   }
