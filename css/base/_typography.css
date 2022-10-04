@@ -7,3 +7,19 @@ body {
   line-height: 1.4;
   color: #777;
 }
+
+/* Header Typography */
+
+.heading-primary {
+  font-weight: 700;
+  font-size: 5rem;
+  line-height: 1.5;
+  letter-spacing: -1px;
+  color: #191826;
+}
+
+.header__text {
+  font-weight: 400;
+  font-size: 2rem;
+  color: #191826;
+}
