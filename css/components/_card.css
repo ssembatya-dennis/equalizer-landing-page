@@ -6,8 +6,9 @@
   padding: 58px;
   color: #fff;
   position: absolute;
+  margin-right: 9.5rem;
   top: 15%;
-  right: 130px;
+  right: 0;
 }
 
 .card__title {

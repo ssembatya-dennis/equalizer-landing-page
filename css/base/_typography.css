@@ -59,3 +59,12 @@ body {
   text-align: center;
   letter-spacing: -0.18px;
 }
+
+/*Footer*/
+
+.footer__text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #191826;
+}
